@@ -7,4 +7,4 @@ Fill in the `predefinedQuestions` array with questions and answers with the corr
 
 Challenge of getting questions from Slido is up to a reader to figure out :)
 
-P.S. Answers are not there anyway, so that's one purely on you
+P.S. Answers are not there anyway, so that's purely on you
