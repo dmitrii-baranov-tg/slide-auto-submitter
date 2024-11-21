@@ -6,3 +6,5 @@ Just copy the snippet JS code and paste it in the Google Chrome's developer cons
 Fill in the `predefinedQuestions` array with questions and answers with the correct questions and answers you found.
 
 Challenge of getting questions from Slido is up to a reader to figure out :)
+
+P.S. Answers are not there anyway, so that's one purely on you
